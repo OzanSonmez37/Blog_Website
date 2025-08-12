@@ -5,6 +5,7 @@
 📂 Posts can be created with selected categories or by adding new ones.
 ✏️ Published posts can be edited or deleted as needed.
 
+--------------------------------------------------------------------------------
 
 ✨ Features
 
@@ -18,6 +19,7 @@
 
 📱 Responsive Design – Works perfectly on desktop and mobile.
 
+--------------------------------------------------------------------------------
 
 🛠 Technologies Used
 
@@ -29,6 +31,7 @@
 
 📩 Email: Nodemailer
 
+--------------------------------------------------------------------------------
 
 <img width="1903" height="795" alt="Image" src="https://github.com/user-attachments/assets/f3f40e64-f673-4fab-b102-5473ada59384" />
 
